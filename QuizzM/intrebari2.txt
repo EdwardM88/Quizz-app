@@ -1,0 +1,51 @@
+What is speed?
+Vector physical quantity that indicates movement over time.
+Movement in time.
+
+What is the boiling point of water at sea level?
+The boiling point of water is 100 degrees Celsius.
+250 Farrenhein.
+
+What is the unit of force in physics?
+The unit of force is the newton.
+Apple fall from tree.
+
+What is the formula for calculating speed?");
+Speed = distance / time.
+Speed is distance in raport with time.
+
+What is the basic unit of electric current?
+The basic unit is the ampere.
+Thing about ohm law.
+
+What is the formula for calculating force?
+Force = mass × acceleration.
+Force is mass * something.
+
+Which force acts against motion?
+Friction acts against motion.
+Is a reserve force
+
+What is the center of an atom called?
+The center of an atom is called the nucleus.
+Atom was three big components
+
+What does a thermometer measure?
+A thermometer measures temperature.
+In house are 20 grades.
+
+Why does ice float on water?
+Ice floats because it is less dense than water.
+Thing about fronzen lake.
+
+What is the formula for density?
+Density = mass / volume.
+
+What do magnets attract?
+Magnets attract iron, nickel, and cobalt, as well as other magnetic materials.
+
+What is the unit of power?
+The unit of power is the watt.
+
+Why do we see objects?
+We see objects because they reflect light into our eyes.

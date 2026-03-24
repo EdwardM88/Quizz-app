@@ -1,0 +1,9 @@
+﻿  Quizz2.cpp
+C:\Users\Eddy\Desktop\working\QuizzM\Quizz2.h(51,24): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+  (compiling source file 'Quizz2.cpp')
+  
+C:\Users\Eddy\Desktop\working\QuizzM\Quizz2.h(51,24): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  (compiling source file 'Quizz2.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  QuizzM.vcxproj -> C:\Users\Eddy\Desktop\working\QuizzM\x64\Debug\QuizzM.exe

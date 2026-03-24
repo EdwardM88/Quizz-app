@@ -1,0 +1,10 @@
+C:\Users\edyme\Desktop\work\QuizzM\QuizzM\x64\Debug\QuizzM.vcxproj.AssemblyReference.cache
+C:\Users\edyme\Desktop\work\QuizzM\QuizzM\x64\Debug\QuizzM.MyForm.resources
+C:\Users\edyme\Desktop\work\QuizzM\QuizzM\x64\Debug\QuizzM.vcxproj.GenerateResource.cache
+C:\Users\edyme\Desktop\work\QuizzM\QuizzM\x64\Debug\QuizzM.QuizApp.resources
+C:\Users\edyme\Desktop\work\QuizzM\QuizzM\x64\Debug\QuizzM.Quizz2.resources
+C:\Users\Eddy\Desktop\working\QuizzM\QuizzM\x64\Debug\QuizzM.vcxproj.AssemblyReference.cache
+C:\Users\Eddy\Desktop\working\QuizzM\QuizzM\x64\Debug\QuizzM.MyForm.resources
+C:\Users\Eddy\Desktop\working\QuizzM\QuizzM\x64\Debug\QuizzM.QuizApp.resources
+C:\Users\Eddy\Desktop\working\QuizzM\QuizzM\x64\Debug\QuizzM.Quizz2.resources
+C:\Users\Eddy\Desktop\working\QuizzM\QuizzM\x64\Debug\QuizzM.vcxproj.GenerateResource.cache

@@ -1,0 +1,54 @@
+  QuizzM.MyForm.resources - Embedded, ContainedInManifestFile, 
+  QuizzM.QuizApp.resources - Embedded, ContainedInManifestFile, 
+  QuizzM.Quizz2.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly QuizzM, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class QuizzM.QuizApp: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LoadQuiz(): PrivateScope, Public, HideBySig
+    Random_Quiz(): PrivateScope, Public, HideBySig
+    DisplayQuiz(): PrivateScope, Public, HideBySig
+Class QuizzM.Quizz2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[System.String] questions : Public
+    System.Collections.Generic.List`1[System.String] answers : Public
+    System.Collections.Generic.List`1[System.String] hints : Public
+    System.String filePath : Public
+    System.Collections.Generic.List`1[System.Int32] index : Public
+    System.Random rand : Public
+    Int32 partscore : Public
+    Boolean hintuse : Public
+    Int32 seconds : Public
+    Double score : Public
+    Int32 hintcount : Public
+    Int32 currentQ : Public
+  Methods:
+    LoadQuestionsAndAnswers(List`1, List`1, String): PrivateScope, Public, HideBySig
+    Random_Quiz(): PrivateScope, Public, HideBySig
+    SplitWords(String): PrivateScope, Public, HideBySig
+    ComputeScore(String, String): PrivateScope, Public, HideBySig
+    ShowQuizz(): PrivateScope, Public, HideBySig
+Class QuizzM.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class QuizzM.Verify: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

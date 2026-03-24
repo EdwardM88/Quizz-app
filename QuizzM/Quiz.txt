@@ -1,0 +1,84 @@
+﻿Ce rol joacă baza de numerație în reprezentarea numerelor în calculator?
+Pentru a stoca programele pe disc.
+Pentru a influența tipul și precizia cu care sunt reprezentate numerele
+Pentru a seta viteza de procesare a unitatii centrale
+Pentru a determina ordinea de executie a operatiilor aritmetice
+2
+
+Care este efectul acumulării erorilor în calculele numerice?
+Efectul de a reduce complexitatea calculelor
+Efectul de a face rezultatul unui calcul numeric total incorect
+Efectul de a face rezultatele mai precise
+Efectul de a elimina erorile din calcule
+2
+
+What does it mean for a computational problem to be well-conditioned?
+Small changes in the input data lead to small changes in the solution.
+When the condition number is large.
+When the input data is very precise.
+When the algorithm used for solving is efficient.
+1
+
+How is the condition number of a calculation problem defined?
+The ratio of the absolute error in the solutions of the computational problem to the absolute error in the input data.
+Raportul dintre eroarea absolută în datele de intrare și datele de ieșire.
+Măsura sensibilității soluției la modificările din datele de intrare.
+The ratio between the exact solution and the solution obtained after perturbing the input data.
+1
+
+What does the term "mantissa" represent in the context of floating point numbers?
+The exponent of the floating point number
+The number of bits used to represent a floating point number
+Fraction or significant figures of a floating point number
+Floating point number base
+3
+
+What happens to the solutions of an ill-conditioned problem when the initial data has errors?
+Solutions change significantly
+Solutions cannot be calculated
+Solutions can become completely unstable
+Solutions change in a predictable way
+1
+
+What are representation errors in numerical computation?
+Inherent errors that come from the initial data of the problem
+Calculation errors resulting from adding or subtracting numbers
+Method errors due to the numerical method used
+Errors due to the limited possibility of representing numbers in computers
+4
+
+What is the main function of the floating point number system?
+Storing integers with precision
+Performing quick arithmetic calculations
+Representation of complex numbers
+Representing real numbers in a flexible way
+4
+
+What does the invertible matrix represent in a system of linear equations?
+A matrix whose rows are dependent.
+A tool that allows finding a unique solution to the system of equations.
+A matrix used to find approximate, not exact, solutions.
+A matrix with determinant equal to zero.
+2
+
+What characterizes a numerically stable algorithm?
+Minimizes the effect of errors in input data
+It has a mechanism that warns when errors are large
+Amplifies errors in input data
+Leads to very different solutions even with slightly modified input data
+1
+
+
+How do you determine the pivot in a matrix at step k?
+The element on the main diagonal of the matrix at step k
+The element with the lowest modulo value in column k, starting from the element on the main diagonal down
+The element in the last row of column k
+The element with the highest value in the mode of column k, starting from the element on the main diagonal down
+4
+
+What is the principle of partial pivot triangulation?
+Search for the pivot with the largest absolute value in column k, from row k down, with row permutations if necessary
+Triangulation without pivoting
+Using the smallest element in the column as the pivot
+Finding the pivot only on the main diagonal
+1
