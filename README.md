@@ -13,7 +13,7 @@ To run in good condition this app,ypu need the next tools:
 
 
 #Features
-  *In type 2 of quizz,the program evaluate alone your answer,based on key words,which are linked with the question.
-  *Grade system,based on correct and wrong answers.
-  *Timer,like in real life.
-  *You can't return to previous question,and to go to the next question,you must to select an answer.
+  * In type 2 of quizz,the program evaluate alone your answer,based on key words,which are linked with the question.
+  * Grade system,based on correct and wrong answers.
+  * Timer,like in real life.
+  * You can't return to previous question,and to go to the next question,you must to select an answer.
