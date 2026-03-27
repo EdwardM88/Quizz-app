@@ -1,6 +1,6 @@
 # Quizz-app
 
->0 Quizz-app is an application to make test and evaluation situation easier,because it has integrated two big quizz types.
+> Quizz-app is an application to make test and evaluation situation easier,because it has integrated two big quizz types.
 >One of them is a clasic quizz,where you must to select one or more answers.In this type of quizz can be more correct answers.
 >The other one is more difficult,because you must to write the answer,and the app evaluate your answer.
 
