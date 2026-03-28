@@ -7,7 +7,7 @@
 ## Tools and apps for run
 
 To run in good condition this app,ypu need the next tools:
-  * Visual Studio,2022 or fewer.
+  * Visual Studio,2022 or newer.
   * CLR library.This can be installed in Visual Studio.
   * To prevent any bugs or erros,CLR works very good on Win32 Platform,also works on x64.
 
